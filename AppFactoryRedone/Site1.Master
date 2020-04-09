@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="AppFactoryRedone.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>App Factory</title>
+    <link href="styles/bootstrap.min.css" rel="stylesheet" />
+    <link href="styles/bootstrap-grid.min.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+         <nav class="class_nav">
+           
+            <p>App Factory 2020</p>
+            <ul class="primary_nav">
+                <li><a href="CaptureDetails.aspx">Caputure</a></li>
+                <li><a href="#">Roles</a>
+                    <ul>
+                        <li><a href="#">Manager</a></li>
+                        <li><a href="#">Mentor</a></li>
+                        <li><a href="InternsDataTable.aspx">Intern</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Profiles</a></li>
+                <li><a href="#">Projects</a></li>
+
+            </ul>
+
+        </nav>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+           
+           
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

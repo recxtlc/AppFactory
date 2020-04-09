@@ -1,0 +1,6 @@
+C:\Users\recxt\documents\visual studio 2013\Projects\AppFactoryRedone\AppFactoryRedone\bin\AppFactoryRedone.dll.config
+C:\Users\recxt\documents\visual studio 2013\Projects\AppFactoryRedone\AppFactoryRedone\bin\AppFactoryRedone.dll
+C:\Users\recxt\documents\visual studio 2013\Projects\AppFactoryRedone\AppFactoryRedone\bin\AppFactoryRedone.pdb
+C:\Users\recxt\documents\visual studio 2013\Projects\AppFactoryRedone\AppFactoryRedone\obj\Debug\AppFactoryRedone.dll
+C:\Users\recxt\documents\visual studio 2013\Projects\AppFactoryRedone\AppFactoryRedone\obj\Debug\AppFactoryRedone.pdb
+C:\Users\recxt\documents\visual studio 2013\Projects\AppFactoryRedone\AppFactoryRedone\obj\Debug\AppFactoryRedone.csprojResolveAssemblyReference.cache

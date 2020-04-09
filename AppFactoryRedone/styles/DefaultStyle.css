@@ -1,0 +1,130 @@
+﻿body {
+
+    background-color:white;
+}
+
+.main_div {
+     
+     margin-top: 10%;
+     margin-left:30%;
+
+     margin: auto auto;
+     box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+
+     width:50%;
+     height:550px;
+     position:relative;
+     
+}
+.form-control{
+    margin:1em 0 0 30%;
+    float:left;
+    clear:both;/*
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    border-bottom: 1px solid black;*/
+    text-indent:10%;
+    width: 250px;
+    color:#5D6D7E;
+
+    border-radius:3px;
+
+    height:30px;
+
+   
+}
+
+
+.class_role 
+{
+    position:absolute;
+    left:25px;
+}
+
+
+
+#ContentPlaceHolder1_roleLabel
+{
+    position:absolute;
+    top:155px;
+    left:240px;
+    font-size:17px;
+
+}
+#ContentPlaceHolder1_Role
+{
+    position:relative;
+    left:40px;
+    width:210px;
+    text-indent:50px;
+}
+
+#ContentPlaceHolder1_DOB
+{
+    position:relative;
+    top:250px;
+    left:-230px;
+    width:450px; 
+    height:150px;
+    
+}
+
+#ContentPlaceHolder1_Primary
+{
+    position:absolute;
+    top:200px;
+     left:418px;
+     padding-right:200px;
+
+}
+#ContentPlaceHolder1_PrimaryCheckBox
+{
+    position:relative;
+    left:5px;
+}
+
+#ContentPlaceHolder1_Business
+{
+    position:absolute;
+    top:245px;
+    left:415px;
+    padding-left:1px;
+
+}
+#ContentPlaceHolder1_IsBusinesCheckBox
+{
+     position:relative;
+    left:4px;
+}
+#ContentPlaceHolder1_sand_to_DB{
+    position:relative; 
+    top:250px;
+    left:-200px;
+    margin-top:5px;
+}
+#ContentPlaceHolder1_Cancel
+{
+     position:relative; 
+    top:250px;
+    left:-250px;
+    margin-top:5px;
+}
+caption 
+{
+    caption-side: top;
+    text-align:center;
+    padding: 0 auto;
+}
+
+.page-header
+{
+    padding-left: 25%;
+}
+
+.form-control{
+
+
+}
